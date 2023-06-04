@@ -4,6 +4,12 @@ List of games which I have helped develop, along with their links. You can also 
 1) Repercussion
 This game is made for 2 days game jam organized in youth conclave 5.0 by INAE,IIT Jodhpur. (September 2022)
 Link: https://adityasahu.itch.io/repercussion
+Credits:   
+  Akarshan Kapoor
+  Aditya Sahu
+  Arjun Mehra
+  Swarnaroop Bhunia
+
 
 2) Souls and Beyond
 Souls and Beyond, a puzzle game that takes you on an exciting trip through the rich and magical realm of Hindu mythology. Solve the secrets of time-reversal, relying on your brains and skill to conquer the obstacles that await you. As you go through the divine landscape, you'll come across a slew of puzzles that shall force you to churn your brains. Souls and Beyond is a game that will take you beyond your imagination, with a gripping gameplay. Are you up for the task of becoming a master of time-reversal? Jump right in!!!
