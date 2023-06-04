@@ -5,9 +5,9 @@ List of games which I have helped develop, along with their links. You can also 
 This game is made for 2 days game jam organized in youth conclave 5.0 by INAE,IIT Jodhpur. (September 2022)
 Link: https://adityasahu.itch.io/repercussion
 Credits:   
-  Akarshan Kapoor
-  Aditya Sahu
-  Arjun Mehra
+  Akarshan Kapoor,
+  Aditya Sahu,
+  Arjun Mehra,
   Swarnaroop Bhunia
 
 
@@ -16,10 +16,10 @@ Souls and Beyond, a puzzle game that takes you on an exciting trip through the r
 Link: https://cg2d-iit-mandi.itch.io/souls-and-beyond
 
 Credits:   
-  Alhad Chatur 
-  Aditya Sahu
-  Ravi Shirsat
-  Swarnaroop Bhunia
-  Rishabh Shrival
-  Arjun Mehra 
+  Alhad Chatur,
+  Aditya Sahu,
+  Ravi Shirsat,
+  Swarnaroop Bhunia,
+  Rishabh Shrival,
+  Arjun Mehra ,
   Special Thanks : Aayushmaan Jha (Narrator)
