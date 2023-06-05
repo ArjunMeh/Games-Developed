@@ -13,8 +13,8 @@ Credits:
 
 
 2) Souls and Beyond
-This game is made in 4-5 days for a gamejam
-Souls and Beyond, a puzzle game that takes you on an exciting trip through the rich and magical realm of Hindu mythology. Solve the secrets of time-reversal, relying on your brains and skill to conquer the obstacles that await you. As you go through the divine landscape, you'll come across a slew of puzzles that shall force you to churn your brains. Souls and Beyond is a game that will take you beyond your imagination, with a gripping gameplay. Are you up for the task of becoming a master of time-reversal? Jump right in!!!
+This game is made in 4-5 days for a gamejam,
+It is a puzzle game that takes one on an exciting trip through the rich and magical realm of Hindu mythology. Solve the secrets of time-reversal, relying on one's brains and skill to conquer the obstacles that await oneself. As one go through the divine landscape, one would come across a slew of puzzles that shall force one to churn one's brains. Souls and Beyond is a game that will take you beyond one's imagination, with a gripping gameplay. 
 Link: https://cg2d-iit-mandi.itch.io/souls-and-beyond
 
 Credits:   
