@@ -26,5 +26,5 @@ Credits:
   Arjun Mehra ,
   Special Thanks : Aayushmaan Jha (Narrator)
 
-3) Speedster (Work in Progress)
+3) Speedstar (Work in Progress)
 A High Definition Render Pipeline game inspired by Formula 1 and Need for Speed.
